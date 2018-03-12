@@ -1,4 +1,5 @@
-# dotnetcoreAPI
+﻿# dotnetcoreAPI
+
 本專案將跟著Kingston主要的設計架構：web API，vue，Xamarin來製作
 
 此為web API的部份
