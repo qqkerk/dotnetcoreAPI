@@ -1,0 +1,11 @@
+C:\Users\KOKO\Source\Workspaces\KingstonAPI\KingstonAPI\KingstonAPI\bin\Debug\netcoreapp2.0\KingstonAPI.deps.json
+C:\Users\KOKO\Source\Workspaces\KingstonAPI\KingstonAPI\KingstonAPI\bin\Debug\netcoreapp2.0\KingstonAPI.runtimeconfig.json
+C:\Users\KOKO\Source\Workspaces\KingstonAPI\KingstonAPI\KingstonAPI\bin\Debug\netcoreapp2.0\KingstonAPI.runtimeconfig.dev.json
+C:\Users\KOKO\Source\Workspaces\KingstonAPI\KingstonAPI\KingstonAPI\bin\Debug\netcoreapp2.0\KingstonAPI.dll
+C:\Users\KOKO\Source\Workspaces\KingstonAPI\KingstonAPI\KingstonAPI\bin\Debug\netcoreapp2.0\KingstonAPI.pdb
+C:\Users\KOKO\Source\Workspaces\KingstonAPI\KingstonAPI\KingstonAPI\obj\Debug\netcoreapp2.0\KingstonAPI.csproj.CoreCompileInputs.cache
+C:\Users\KOKO\Source\Workspaces\KingstonAPI\KingstonAPI\KingstonAPI\obj\Debug\netcoreapp2.0\KingstonAPI.AssemblyInfoInputs.cache
+C:\Users\KOKO\Source\Workspaces\KingstonAPI\KingstonAPI\KingstonAPI\obj\Debug\netcoreapp2.0\KingstonAPI.AssemblyInfo.cs
+C:\Users\KOKO\Source\Workspaces\KingstonAPI\KingstonAPI\KingstonAPI\obj\Debug\netcoreapp2.0\KingstonAPI.dll
+C:\Users\KOKO\Source\Workspaces\KingstonAPI\KingstonAPI\KingstonAPI\obj\Debug\netcoreapp2.0\KingstonAPI.pdb
+C:\Users\KOKO\Source\Workspaces\KingstonAPI\KingstonAPI\KingstonAPI\obj\Debug\netcoreapp2.0\KingstonAPI.csprojResolveAssemblyReference.cache
