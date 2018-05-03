@@ -1,11 +1,8 @@
 ﻿# dotnetcoreAPI
 
-本專案將跟著Kingston主要的設計架構：web API，vue，Xamarin來製作
+asp.net core 紅透半邊天，因此練習了一個訂單系統
+
+本專案的主要設計架構將用 web API，vue，Xamarin來製作
 
 此為web API的部份
 
-## 3/19 二面
-
-## 3/16 死線
-
-## 3/12 面試前一周先把KINGSTON拉進來
